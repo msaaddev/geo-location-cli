@@ -1,0 +1,35 @@
+{
+    "name": "location-cli",
+    "version": "1.0.0",
+    "description": "A CLI that gives you location data of any ip address",
+    "main": "index.js",
+    "author": {
+        "name": "Saad Irfan",
+        "email": "mrsaadirfan@gmail.com",
+        "url": "https://twitter.com/msaaddev"
+    },
+    "bin": {
+        "location": "index.js"
+    },
+    "files": [
+        "index.js",
+        "utils/*"
+    ],
+    "keywords": [
+        "location data",
+        "location",
+        "location-cli"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/msaaddev/location-cli.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/msaaddev/location-cli/issues"
+    },
+    "homepage": "https://github.com/msaaddev/location-cli#readme"
+}
