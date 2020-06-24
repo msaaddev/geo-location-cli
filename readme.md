@@ -5,6 +5,8 @@
 	</h1>
 </div>
 
+Get location data of any IP Address within seconds.
+
 ## 👉 FEATURES
 
 -   🌍 Continent
