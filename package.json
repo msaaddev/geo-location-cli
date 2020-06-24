@@ -1,5 +1,5 @@
 {
-    "name": "ip-location-cli",
+    "name": "geo-location-cli",
     "version": "1.0.0",
     "description": "A CLI that gives you location data of any ip address",
     "main": "index.js",
