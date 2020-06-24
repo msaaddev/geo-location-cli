@@ -36,7 +36,7 @@ location
 
 The CLI will ask you to give an IP address. Enter the IP address you want to get the location information of.
 
-<img src="../location-cli/images/usage.png" alt="usage">
+<img src="../images/usage.png" alt="usage">
 
 ## 👨🏻‍💻 AUTHOR
 
