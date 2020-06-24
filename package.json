@@ -31,5 +31,12 @@
     "bugs": {
         "url": "https://github.com/msaaddev/location-cli/issues"
     },
-    "homepage": "https://github.com/msaaddev/location-cli#readme"
+    "homepage": "https://github.com/msaaddev/location-cli#readme",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0",
+        "console-read-write": "^0.1.1",
+        "ora": "^4.0.4"
+    }
 }
