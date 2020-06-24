@@ -1,6 +1,6 @@
 {
     "name": "geo-location-cli",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A CLI that gives you location data of any ip address",
     "main": "index.js",
     "author": {
