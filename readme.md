@@ -1,6 +1,7 @@
 <div align="center">
 	<h1>📌 geo-location-cli<br>
 	<img src="https://img.shields.io/npm/v/geo-location-cli?color=%2380C73D">
+	<img src="https://img.shields.io/npm/dt/geo-location-cli">
 	<img src="https://img.shields.io/npm/l/geo-location-cli?color=%2380C73D">
 	</h1>
 </div>
