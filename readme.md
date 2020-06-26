@@ -17,9 +17,9 @@ Get location data of any IP Address within seconds.
 -   💰 Currency Code
 -   📍 World Region
 -   📌 Subregion
--   🇪🇺 European Union Member
 -   📢 Language Spoken
 -   🗓 Start Of Week
+-   🚀 Latitude & Longitudes
 
 ## 🎩 INSTALLATION
 
