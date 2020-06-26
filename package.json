@@ -1,6 +1,6 @@
 {
     "name": "geo-location-cli",
-    "version": "1.1.1",
+    "version": "2.0.0",
     "description": "A CLI that gives you location data of any ip address",
     "main": "index.js",
     "author": {
@@ -19,7 +19,9 @@
         "location data",
         "location",
         "location-cli",
-        "geolocation"
+        "geolocation",
+        "latitudes",
+        "longitudes"
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
