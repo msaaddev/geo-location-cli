@@ -23,8 +23,16 @@ Get location data of any IP Address within seconds.
 
 ## 🎩 INSTALLATION
 
-Install the CLI globally. If you are windows user, run your command prompt/terminal as administrator. If you are macOS user, add `sudo` before the following command.
+Install the CLI globally. If you are windows user, run your command prompt/terminal as administrator.
 
+```
+npm i -g geo-location-cli
+```
+For Linux & macOS users
+```
+sudo su
+```
+Enter you password then following command below:
 ```
 npm i -g geo-location-cli
 ```
