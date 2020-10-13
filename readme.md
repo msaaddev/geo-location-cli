@@ -28,11 +28,12 @@ Install the CLI globally. If you are windows user, run your command prompt/termi
 ```
 npm i -g geo-location-cli
 ```
-For Linux & macOS users
+For linux and macOS user
+Run the command to run commands as root user/administrator
 ```
-sudo su
+sudo
 ```
-Enter you password then following command below:
+After the `sudo` command enter your password then the following command below to complete installation:
 ```
 npm i -g geo-location-cli
 ```
