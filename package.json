@@ -36,7 +36,7 @@
     },
     "homepage": "https://github.com/msaaddev/location-cli#readme",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "chalk": "^4.1.0",
         "clear": "^0.1.0",
         "cli-table": "^0.3.1",
