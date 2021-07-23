@@ -51,6 +51,10 @@ The CLI will ask you to give an IP address. Enter the IP address you want to get
 -   [Facebook](https://www.facebook.com/msaaddev)
 -   [Blog](https://msaad.dev)
 
+## ⚡️ Other Projects
+
+I have curated a [detailed list](https://github.com/msaaddev/open-source) of all the open-source projects I have authored. Do take out a moment and take a look.
+
 ## 🔑 LICENSE
 
 -   MIT
